@@ -1,14 +1,4 @@
 # PongClone
-Pong clone made with monogame.
+Source code of the Pong clone made with XNA/monogame.
 
 
-Controls:
-
-
-arrows = move
-
-
-space bar = select (menu)
-
-
-"press start" = enter
